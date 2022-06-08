@@ -12,4 +12,5 @@ Funciones adicionales(por lo menos una): 10%
 Forma de entrega: Preparar un video explicativo que muestre el código fuente y la demostración del funcionamiento del programa. La duración del video no debe exceder los tres minutos. Al terminar, guarda el video en una plataforma para compartir documentos o videos como Drive, OneDrive, Dropbox incluso Youtube. Finalmente, escribe el enlace al video antes de la fecha límite.
 
 Nota: Si el código fuente presenta un porcentaje de similitud con el de otro compañero mayor del 70%, se considerará como trabajo plagiado y se calificará con 0 puntos a todos los que resulten similares. Para medir el porcentaje de similitud se utilizará un programa informático para Moodle.
+
 [Ejecucion del programa](https://youtu.be/ek0fzUwFBm8)
