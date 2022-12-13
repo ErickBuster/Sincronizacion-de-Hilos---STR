@@ -1,6 +1,4 @@
 /*
-Presa Hernandez Jose Miguel Angel - 9CV12
-
 Práctica 1. Sincronización de hilos, canales 
 Implementar un programa en C/C++ con estándar POSIX para ejecución concurrente (usando hilos) que almacene las muestras de cuatro señales generadas por tareas diferentes. Los datos generados por las tareas deben almacenarse en un archivo txt donde columnas representan las muestras de cada señal. Simultáneamente, se debe monitorear el teclado para pausar, reanudar y detener el proceso. Finalmente, se debe incluir el desplegado de mensajes del estado del proceso que pueden ser: iniciado, pausado y reanudado. Las señales a generar son seno, coseno, triangular y cuadrada cuyo número de muestras por ciclo es de 100.
 Criterio de Evaluación:
